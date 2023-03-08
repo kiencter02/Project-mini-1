@@ -308,6 +308,12 @@
   .section-two .inner-content h2 {
     font-size: 38px;
   }
+  .section-two .inner-content .inner-list {
+      flex-wrap: wrap;
+  }
+  .section-two .inner-content .inner-list{
+    margin-bottom: 20px;
+  }
 }
 
 /* End Section-two */
